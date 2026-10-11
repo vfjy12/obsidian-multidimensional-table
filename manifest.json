@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-multidimensional-table",
+  "name": "考公词典",
+  "version": "0.10.11",
+  "minAppVersion": "1.10.0",
+  "description": "Markdown 词条与智能范围多维表格联动，增强 iPad 主从布局、默认折叠编辑与触控操作。",
+  "author": "peyote",
+  "isDesktopOnly": false
+}
